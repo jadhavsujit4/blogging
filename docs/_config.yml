@@ -9,9 +9,9 @@ remote_theme: "mmistakes/jekyll-theme-basically-basic"
 
 # Site Settings
 lang: en-US
-title: Docs Basically Basic
+title: The Panda who never sleeps
 email: jadhav.sujit4@gmail.com
-description: "Your new default Jekyll theme"
+description: "Life of a Panda"
 baseurl: "/blogging"
 url: "https://jadhav.sujit4.github.io"
 repository: "blogging"
