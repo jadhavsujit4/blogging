@@ -10,21 +10,21 @@ remote_theme: "mmistakes/jekyll-theme-basically-basic"
 # Site Settings
 lang: en-US
 title: Docs Basically Basic
-email: dugan.nash@mailinator.com
+email: jadhav.sujit4@gmail.com
 description: "Your new default Jekyll theme"
-baseurl: "/jekyll-theme-basically-basic"
-url: "https://mmistakes.github.io"
-repository: "mmistakes/minimal-mistakes"
+baseurl: "/blogging"
+url: "https://jadhav.sujit4.github.io"
+repository: "blogging"
 author:
-  name: Dugan Nash
-  twitter: Towlette_Pettetucci
+  name: Sujit Jadhav
+  twitter: jadhavsujit4
   picture: https://api.adorable.io/avatars/285/johndoe.png
-twitter_username: Towlette_Pettetucci
-github_username: Towlette_Pettetucci
+twitter_username: jadhavsujit4
+github_username: jadhavsujit4
 logo: /assets/icons/basically-basic-logo-light.svg
 google_analytics: UA-2011187-6
 disqus:
-  shortname: basically-basic-theme
+  shortname: basically-a-blog
 search: true
 search_full_content: true
 search_provider: lunr
