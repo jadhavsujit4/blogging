@@ -1,5 +1,5 @@
 ---
-title: "See Yoy Again - NEVER"
+title: "See You Again - NEVER"
 image: /assets/images/eder-oliveira-180877.jpg
 categories:
   - Layout
