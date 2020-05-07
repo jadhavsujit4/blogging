@@ -4,7 +4,7 @@ image: /assets/images/eder-oliveira-180877.jpg
 categories:
   - Layout
 excerpt: "Post displaying the story of life"
-last_moified_at: 2020-05-08T10:27:01-05:00
+last_moified_at: 2020-05-07T10:27:01-05:00
 tags: 
   - code
   - syntax highlighting
