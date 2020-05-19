@@ -36,3 +36,13 @@ tags:
 <p style="text-align: justify;">
   This is the final story in this post, a story which I am currently living in. Like many others, I don't have any personal contact with most of my work friends, but few chose to stay with me, connect with me. Few College friends with whom I chose to stay for my future. Life moved slowly into happiness and then things happened. I am studying Masters in Ireland, but had to come back to India due to COVID-19. Things were still sorted, but then again the real faces of few were revealed. One of my close friend, instead of supporting me in a right/wrong judgement, fair/unfair decision, chose to support the wrong side just for his personal gain. I was surprised to know about this and my future plans with that person shattered. I am still in awe with the decision made by my friend, and still have no idea whether to trust that person anymore again. At this juncture I had fights with that person and we decided to not talk for sometime. The fight was due to few misunderstandings from my end, which I clarified, which I accepted and tried to sort it out. But, what my mind was going through for this kinf of decision could not be explained. Crying was only one thing which I could do. I am still unsure whether to leave this person or not. Will it be worth staying with person who made me cry for such small things, who left me in dry? The quesion is will I "See you again - Never" ?
 </p>
+
+<div id="hyvor-talk-view"></div>
+<script type="text/javascript">
+    var HYVOR_TALK_WEBSITE = 679; // DO NOT CHANGE THIS
+    var HYVOR_TALK_CONFIG = {
+        url: "https://jadhavsujit4.github.io/blogging"
+        id: "5475"
+    };
+</script>
+<script async type="text/javascript" src="//talk.hyvor.com/web-api/embed"></script>
