@@ -14,7 +14,7 @@ email: jadhav.sujit4@gmail.com
 description: "Life of a Panda"
 baseurl: "/blogging"
 url: "https://jadhav.sujit4.github.io"
-repository: ""
+repository: "blogging"
 author:
   name: Sujit Jadhav
   twitter: jadhavsujit4
