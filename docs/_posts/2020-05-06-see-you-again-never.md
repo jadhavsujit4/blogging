@@ -30,8 +30,10 @@ tags:
 </p>
   
 ```yaml
-“I cannot compromise my respect for your love. You can keep your love, I will keep my respect.”
- ― Amit Kalantri, Wealth of Words
+“I cannot compromise my respect for your love. You can keep your love,
+ I will keep my respect.”
+ 
+                                      ― Amit Kalantri, Wealth of Words
 ```
 <p style="text-align: justify;">
   This can be understood by the next event during my graduate studies. Being an introvert, I talked with fewer people and was never into socialising with other people in my class. But then life happened, where I met a group of girls and got close to them in a very short time. We even celebrated festivals, college events together wearing the same kind of clothes; which defines the level of our friendship. This was not only it; We also planned to go on a trip together, which every group does, but here I felt special because I was the only boy in the group. We trekked places together, went out eating junk food whenever we got the chance. Life seemed happiest as one of them helped me to get through my tough times. But, for how long can a person be happy? The group decided to go on a trek without informing/inviting me, to which I thought that they can feel uncomfortable. So I accepted it but later found out that they lied to me and enjoyed the trek with our another college friend, which made me furious. This was the line they could have not crossed which shattered me and made me even angrier. From then on, I decided to not get involved in any of the activities with them, to not talk to anyone of them, no replies to them. All this, just to save my self-respect, which helped me at that moment as we became apart and moved ahead with our life. From then on, I never spoke to anyone in my remaining years of graduation. But the truth is, seeing them still being in a group and getting more attached to each other made me miss the time I spent with them. I made this decision in anger and left them, which later on I thought of as a mistake. I still don't know what I did was a mistake or the right thing to do. It's better to leave that to others to decide. But the bottom line is, I still miss them a lot and would love to be in contact with all of them.
